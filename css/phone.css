@@ -1,0 +1,39 @@
+#navbar{
+flex-direction: column;
+}
+
+#s{
+height:70%;
+padding:0px;
+margin:0px;
+width:100%;
+}
+#s::before{
+    height:440px;
+}
+ul li a{
+    text-align: center;
+    font-size: 15px;
+}
+#id45 img{
+    position: relative;
+    margin: 2px;
+    padding:4px;
+    height:90px;
+}
+#s p{
+   text-align: center;
+    font-size: 18px;
+    width: 100%;
+}
+#services{
+    flex-direction: column;;
+}
+.divc{
+    /* flex-direction: column; */
+    overflow: hidden;
+}
+.class2 {
+    text-align: center;
+    font-size: 30px;
+}
